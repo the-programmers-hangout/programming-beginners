@@ -1,5 +1,5 @@
 # Beginners
-Whenever someone new starts programming, they always want to know the answer to the question - "What language should I start with?". Sometimes this has some variance, i.e. the person provides some choices and they want the opinions of others on which of the given they should do "first"
+Whenever someone new starts programming, they always want to know the answer to the question - "What language should I start with?". Sometimes this has some variance, i.e. the person provides some choices and they want the opinions of others on which of the given they should do "first".
 
 ## Actual answer for newbies
 Just pick any popular language and go with it. If you have someone close to you who is a mentor of some kind, and they are willing to teach you, go with that. If you are enrolling in a CS course and you know what language they are going to use, maybe use that. Do not listen to the static white noise about particular languages. Part of being a programmer is being an explorer. Pick one yourself, and get going with it. If you don't know where to get a list of popular ones, start here: https://www.tiobe.com/tiobe-index/
@@ -35,7 +35,7 @@ They wouldn't answer like that. That'd be stupid. They'd give you a piece of woo
 # When you have your language selected
 You need a few things. You need a means to learn this language, and you need a place to ask questions. Hardly anyone gets it right the first time; programming is a pretty tough subject to get into, and trust me when I say I'm not gatekeeping here; you can do it as well as anyone else. You just need to devote some time to it. Below I've illustrated a step by step process for getting to grips with your first language. Follow it, and if you have questions, freely ask them
 
-1. Get some learning material. Books work well for some people, MOOC courses work well for others. What you use should depend on you - you know yourself better than anyone, so you should pick what learning material you use. 
+1. Get some learning material. Books work well for some people, MOOC courses work well for others. What you use should depend on you - you know yourself better than anyone, so you should pick what learning material you use.
 
 2. Remember that resources aren't enough. Explaining programming concepts is not an exact science, no one size fits all. That means you'll need to ask questions. Great places to ask questions include:
 - Google
